@@ -1,0 +1,8 @@
+res://random_item_placer.tscn
+res://addons/gdpractice/assets/theme.tres
+res://assets/ship_visual_effects/main_thruster/thruster_material.tres
+res://assets/background/space_material.tres
+res://lessons/space_level.tscn
+res://timer.gd
+res://random_item_placer.gd
+res://gem.tscn
